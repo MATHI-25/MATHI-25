@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Real-World+Software+Solutions;Exploring+AI%2FML+%26+Generative+AI" alt="Typing SVG" />
 </a><p>
   <a href="#"><img src="https://img.shields.io/badge/Chennai%2C%20India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:srimathia722@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 </p><a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
 </a></div><br/><a href="#"><img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/></a> About Me
