@@ -1,24 +1,24 @@
-<div align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=220&section=header&text=Mathi%20Sri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/></a>
+<div align="center"><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=220&section=header&text=Srimathi%20A&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/></a>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Real-World+Software+Solutions;Exploring+AI%2FML+%26+Generative+AI" alt="Typing SVG" />
 </a><p>
-  <a href="#"><img src="https://img.shields.io/badge/Chennai%2C%20India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Erode,%2C%20Tamilnadu-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/></a>
   <a href="mailto:srimathia722@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 </p><a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
 </a></div><br/><a href="#"><img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/></a> About Me
 
 <p>
-<a href="#"><img src="https://img.icons8.com/fluency/48/telescope.png" width="20" valign="middle"/></a> <b>Currently working on</b> — Java Full Stack and AI-powered projects<br/><br/><a href="#"><img src="https://img.icons8.com/fluency/48/handshake.png" width="20" valign="middle"/></a> <b>Looking to collaborate on</b> — Java, Spring Boot, Full Stack and AI/ML projects<br/><br/>
+<a href="#"><img src="https://img.icons8.com/fluency/48/telescope.png" width="20" valign="middle"/></a> <b>Currently working on</b> - Java Full Stack and AI-powered projects<br/><br/><a href="#"><img src="https://img.icons8.com/fluency/48/handshake.png" width="20" valign="middle"/></a> <b>Looking to collaborate on</b> - Java, Spring Boot, Full Stack and AI/ML projects<br/><br/>
 
-<a href="#"><img src="https://img.icons8.com/fluency/48/help.png" width="20" valign="middle"/></a> <b>Looking for help with</b> — Advanced DSA, system design and scalable application development<br/><br/>
+<a href="#"><img src="https://img.icons8.com/fluency/48/help.png" width="20" valign="middle"/></a> <b>Looking for help with</b> - Advanced DSA, system design and scalable application development<br/><br/>
 
-<a href="#"><img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="20" valign="middle"/></a> <b>Currently learning</b> — Data Structures & Algorithms, Spring Boot, Cloud and Generative AI<br/><br/>
+<a href="#"><img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="20" valign="middle"/></a> <b>Currently learning</b> - Data Structures & Algorithms, Spring Boot, Cloud and Generative AI<br/><br/>
 
-<a href="#"><img src="https://img.icons8.com/fluency/48/chat.png" width="20" valign="middle"/></a> <b>Ask me about</b> — Java, SQL, Spring Boot, REST APIs, MySQL and Git/GitHub<br/><br/>
+<a href="#"><img src="https://img.icons8.com/fluency/48/chat.png" width="20" valign="middle"/></a> <b>Ask me about</b> - Java, SQL, Spring Boot, REST APIs, MySQL and Git/GitHub<br/><br/>
 
-<a href="#"><img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="20" valign="middle"/></a> <b>Fun fact</b> — I enjoy turning real-world problems into practical software solutions <a href="#"><img src="https://img.icons8.com/fluency/48/prize.png" width="18" valign="middle"/></a> Hackathon Finalist & Technical Competition Winner
+<a href="#"><img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="20" valign="middle"/></a> <b>Fun fact</b> - I enjoy turning real-world problems into practical software solutions <a href="#"><img src="https://img.icons8.com/fluency/48/prize.png" width="18" valign="middle"/></a> Hackathon Finalist & Technical Competition Winner
 
 </p><br/><a href="#"><img src="https://img.icons8.com/fluency/48/rocket.png" width="28" valign="middle"/></a> Featured Projects
 
