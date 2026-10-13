@@ -3,7 +3,7 @@
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Real-World+Software+Solutions;Exploring+AI%2FML+%26+Generative+AI" alt="Typing SVG" />
 </a><p>
-  <a href="#"><img src="https://img.shields.io/badge/Erode,%2C%20Tamilnadu-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Erode%2C%20Tamilnadu-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/></a>
   <a href="mailto:srimathia722@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 </p><a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
@@ -58,9 +58,9 @@
 
 <p align="left">  <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  <a href="YOUR_GITHUB_URL" target="_blank" rel="noreferrer">
+  </a>  <a href="https://github.com/MATHI-25" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>  <a href="mailto:YOUR_EMAIL@example.com" target="_blank" rel="noreferrer">
+  </a>  <a href="mailto:srimathia722@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -110,29 +110,29 @@
 <div align="center">  <a href="#">
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&border_color=0EA5E9"
+      src="https://github-readme-stats.vercel.app/api?username=MATHI-12&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&border_color=0EA5E9"
     />
   </a>  <a href="#">
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=0EA5E9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHI-12&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=0EA5E9"
     />
   </a></div><br/><div align="center"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2"
+src="https://github-readme-streak-stats.herokuapp.com/?user=MATHI-12&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2"
 alt="GitHub Streak Stats"
 />
 
 </div><br/><a href="#"><img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" valign="middle"/></a> GitHub Activity
 
 <div align="center"><img
-src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
+src="https://github-readme-activity-graph.vercel.app/graph/?username=MATHI-12&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
 alt="GitHub Activity Graph"
 />
 
 </div><br/><br/>
 
 <div align="center">  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&icon=0&color=0EA5E9"/>
+    <img src="https://komarev.com/ghpvc/?username=MATHI-12&icon=0&color=0EA5E9"/>
   </a></div><a href="#">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0EA5E9,100:38BDF8&height=100&section=footer"
